@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581637693032.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "12|9|37|0|\n13|24|36|0|\n38|9|58|0|\n59|9|87|0|\n89|9|96|0|\n90|24|95|0|\n114|9|143|0|\n144|9|160|0|\n161|9|250|0|\n162|24|249|0|\n251|9|271|0|\n",
+    "hash" : "0",
+    "id" : "6DA2D928",
+    "lastKnownWriteTime" : 1581672776,
+    "last_content_update" : 1581745908395,
+    "path" : "C:/Users/cuijy/Desktop/CFRM 425/Cui_Jingyi_Assgn03.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "106,25",
+        "last_setup_crc32" : "CD0A3AC0bb338d19",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
