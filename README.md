@@ -1,0 +1,2 @@
+# cfrm425_hw
+Introduction to R programming language for applications in quantitative finance. Covers R syntax, data structures & manipulation, data analysis and statistics. Working with time series and computing asset returns with R will be covered, as will be the R package system and contributed packages. Recommended: The course does not require prior R programming experience, but programming experience in another language is acceptable.
